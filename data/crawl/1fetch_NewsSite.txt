@@ -1,0 +1,3 @@
+"https://www.nbcnews.com/", 200
+"https://www.nbcnews.com/", 200
+"https://media2.s-nbcnews.com/", 403
