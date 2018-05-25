@@ -15,7 +15,7 @@ Change to the folder With class files, use command line to run
 
 java controller [# search pages] [seed pages whose staring with http:// or https://]
 
-like, java controller 100 https://www.nbcnews.com/
+like java controller 100 https://www.nbcnews.com/
 
 
 
