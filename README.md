@@ -9,13 +9,17 @@ From the given seed pages, it can report
 
 In search_engine_hw2 folder, use the comand to compile 
 
+```
 javac src/search_engine_hw2/*.java
+```
 
 Change to the folder With class files, use command line to run
 
-java controller [# search pages] [seed pages whose staring with http:// or https://]
+```
+java controller <# search pages>  
+```
 
-like java controller 100 https://www.nbcnews.com/
+like java controller 100 https://www.nbcnews.com/, which search 100 pages with BFS search from https://www.nbcnews.com/ wbsite
 
 
 
